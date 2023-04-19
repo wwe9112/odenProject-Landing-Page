@@ -1,1 +1,1 @@
-# odenProject-Landing-Page
+# Project for the Oden Project - Landing Page
